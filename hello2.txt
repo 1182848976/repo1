@@ -1,4 +1,0 @@
-hello 2
-java
-java
-java
